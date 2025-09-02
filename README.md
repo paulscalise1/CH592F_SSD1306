@@ -1,7 +1,7 @@
 # SSD1306 Driver Example for CH5xx Devices
 
 This repo is based off of the [LibDriver SSD1306](https://github.com/libdriver/ssd1306).
-LibDriver SSD1306 offers robust basic and advanced APIs to interface with the OLED.
+LibDriver SSD1306 offers robust basic and advanced APIs to interface with the OLED. Check the link for more documentation.
 
 Currently, this repo only contains the code for I2C interfacing.
 This code has been tested on the CH592F so far. PRs can be accepted.
